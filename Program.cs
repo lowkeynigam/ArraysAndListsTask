@@ -95,7 +95,7 @@ namespace ArraysTask
                  Console.WriteLine("Using Lists - Exercise Three");
 
                 List<string> words = new List<string>();
-                bool isWordStop = false
+                bool isWordStop = false;
                  while (!isWordStop) 
                  {
                     string word = Console.ReadLine();
@@ -111,7 +111,7 @@ namespace ArraysTask
                 Console.WriteLine();
                 foreach (string word in words) 
                 {
-
+                    Console.WriteLine(word);
                 }
                 
                     
@@ -124,5 +124,5 @@ namespace ArraysTask
         }
     }
 }
-}
+
 
