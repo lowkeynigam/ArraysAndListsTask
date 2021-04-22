@@ -1,0 +1,16 @@
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ArraysTask.csprojAssemblyReference.cache
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ArraysTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ArraysTask.AssemblyInfoInputs.cache
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ArraysTask.AssemblyInfo.cs
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ArraysTask.csproj.CoreCompileInputs.cache
+C:\Users\Origin PC\Projects\ArraysTask\bin\Debug\net5.0\ArraysTask.exe
+C:\Users\Origin PC\Projects\ArraysTask\bin\Debug\net5.0\ArraysTask.deps.json
+C:\Users\Origin PC\Projects\ArraysTask\bin\Debug\net5.0\ArraysTask.runtimeconfig.json
+C:\Users\Origin PC\Projects\ArraysTask\bin\Debug\net5.0\ArraysTask.runtimeconfig.dev.json
+C:\Users\Origin PC\Projects\ArraysTask\bin\Debug\net5.0\ArraysTask.dll
+C:\Users\Origin PC\Projects\ArraysTask\bin\Debug\net5.0\ref\ArraysTask.dll
+C:\Users\Origin PC\Projects\ArraysTask\bin\Debug\net5.0\ArraysTask.pdb
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ArraysTask.dll
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ref\ArraysTask.dll
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ArraysTask.pdb
+C:\Users\Origin PC\Projects\ArraysTask\obj\Debug\net5.0\ArraysTask.genruntimeconfig.cache
